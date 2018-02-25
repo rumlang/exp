@@ -1,2 +1,3 @@
-# exp
-Experimental code
+# Experimental
+
+**Warning**: experimental and unreliable code.
